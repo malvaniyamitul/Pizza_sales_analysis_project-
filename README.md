@@ -21,12 +21,27 @@ Which pizza sizes contribute most to revenue?
 
 How can the business increase sales and efficiency?
 
+🛠 Technology & Analytical Techniques Used
 
-🛠 Tools & Technologies
+SQL
 
-SQL-Data extraction, aggregation, and analysis
+Complex JOINs, subqueries, and window functions
 
-Power BI-Interactive dashboards and visualizations
+Aggregations (SUM, AVG, COUNT) for KPI calculations
+
+Date functions for daily and monthly trend analysis
+
+GROUP BY & HAVING for category and product performance
+
+Power BI
+
+Power Query for data cleaning and structuring
+
+Data modeling to build table relationships
+
+DAX measures for revenue, AOV, and sales KPIs
+
+Built interactive Power BI dashboards using slicers, filters, ranking visuals, and trend analysis to support data-driven decisions
 
  📊  Business Insights
  
