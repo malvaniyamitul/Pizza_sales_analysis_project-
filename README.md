@@ -92,5 +92,7 @@ Dashboard design:-
 👤 Author
 
 Malvaniya Mitul
+
 📌 Aspiring Data Analyst
+
 💡 Skills: SQL | Excel | Power BI | Python | Tebleau
