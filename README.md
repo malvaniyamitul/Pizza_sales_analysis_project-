@@ -15,10 +15,9 @@ Understand sales performance over time
 
 Identify top and under-performing products.
 
-Reveal customer ordering patterns
-Provide.
+Reveal customer ordering patterns.
 
-actionable business recommendations for growth and profitability.
+provide actionable business recommendations for growth and profitability.
 
 🛠 Technology & Analytical Techniques Used
 
