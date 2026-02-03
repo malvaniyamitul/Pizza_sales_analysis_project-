@@ -30,7 +30,7 @@ Power BI-Interactive dashboards and visualizations
 
  📊  Business Insights
  
-The business generated $817.86K from 21K orders, selling over 50K pizzas, with an average of 2.32 pizzas per order — indicating strong multi-item purchasing behavior. 
+The pizza business generated $817.86K from 21K orders, selling over 50K pizzas, with an average of 2.32 pizzas per order — indicating strong multi-item purchasing behavior. 
 
 Friday is the highest-demand day (3.5K orders), followed by Saturday and Thursday, making weekends the most profitable operating period. 
 
