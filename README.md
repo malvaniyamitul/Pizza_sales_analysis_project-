@@ -10,10 +10,15 @@ The objective is to help decision-makers understand revenue trends, product perf
 🎯 Business Objectives
 
 The analysis focuses on answering key business questions:
+
 Which pizzas generate the most revenue and highest demand?
+
 What are the best and worst performing products?
+
 When do customers order the most?
+
 Which pizza sizes contribute most to revenue?
+
 How can the business increase sales and efficiency?
 
 
