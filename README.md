@@ -20,6 +20,7 @@ How can the business increase sales and efficiency?
 🛠 Tools & Technologies
 
 SQL-Data extraction, aggregation, and analysis
+
 Power BI-Interactive dashboards and visualizations
 
  📊  Business Insights
