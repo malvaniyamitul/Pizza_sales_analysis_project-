@@ -25,21 +25,21 @@ Power BI-Interactive dashboards and visualizations
 
  📊  Business Insights
  
-The business generated $817.86K from 21K orders, selling over 50K pizzas, with an average of 2.32 pizzas per order — indicating strong multi-item purchasing behavior. �
+The business generated $817.86K from 21K orders, selling over 50K pizzas, with an average of 2.32 pizzas per order — indicating strong multi-item purchasing behavior. 
 
-Friday is the highest-demand day (3.5K orders), followed by Saturday and Thursday, making weekends the most profitable operating period. �
+Friday is the highest-demand day (3.5K orders), followed by Saturday and Thursday, making weekends the most profitable operating period. 
 
-Order volume peaks in March (1,935 orders) and remains high in October, January, and December, reflecting clear seasonal demand patterns. �
+Order volume peaks in March (1,935 orders) and remains high in October, January, and December, reflecting clear seasonal demand patterns. 
 
-Large pizzas contribute nearly 46% of total revenue, making size-upselling one of the strongest revenue growth levers. �
+Large pizzas contribute nearly 46% of total revenue, making size-upselling one of the strongest revenue growth levers. 
 
-Classic pizzas lead all categories in volume (15K pizzas sold), showing that traditional flavors drive the most consistent customer demand. �
+Classic pizzas lead all categories in volume (15K pizzas sold), showing that traditional flavors drive the most consistent customer demand. 
 
-The Thai Chicken Pizza and Barbecue Chicken Pizza are the top-selling products, each generating about $43K, making them the business’s flagship offerings. �
+The Thai Chicken Pizza and Barbecue Chicken Pizza are the top-selling products, each generating about $43K, making them the business’s flagship offerings. 
 
-A small group of pizzas contributes a large share of total sales, while low-performing items like The Brie Carre and Spinach-based pizzas generate minimal revenue, indicating opportunities for menu optimization. �
+A small group of pizzas contributes a large share of total sales, while low-performing items like The Brie Carre and Spinach-based pizzas generate minimal revenue, indicating opportunities for menu optimization. 
 
-Customer ordering behavior supports combo and family-pack strategies, as customers buy more than two pizzas per order on average. �
+Customer ordering behavior supports combo and family-pack strategies, as customers buy more than two pizzas per order on average. 
 
  🚧 Challenges Faced
  
