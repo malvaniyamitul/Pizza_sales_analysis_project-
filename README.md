@@ -9,13 +9,16 @@ The objective is to help decision-makers understand revenue trends, product perf
 
 🎯 Business Objectives
 
-The analysis focuses on answering key business questions.
+The goal of this project is to analyze historical pizza sales data to:
 
-Example:-
+Understand sales performance over time
 
-Which pizzas generate the most revenue and highest demand?
+Identify top and under-performing products.
 
-When do customers order the most?
+Reveal customer ordering patterns
+Provide.
+
+actionable business recommendations for growth and profitability.
 
 🛠 Technology & Analytical Techniques Used
 
