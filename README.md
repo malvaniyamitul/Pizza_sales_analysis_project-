@@ -63,7 +63,7 @@ Dashboard design:
 
 Designing a Power BI report that presents KPIs, trends, and product performance clearly without overwhelming users was a key visualization challenge.
 
-📚 New Learnings
+📚 Key Skills & Knowledge Gained
 
 Writing optimized SQL queries to calculate business KPIs, rankings, and time-based trends from large transactional datasets.
 
