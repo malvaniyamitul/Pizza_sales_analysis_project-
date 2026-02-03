@@ -9,9 +9,9 @@ The objective is to help decision-makers understand revenue trends, product perf
 
 🎯 Business Objectives
 
-The goal of this project is to analyze historical pizza sales data to:
+• The goal of this project is to analyze historical pizza sales data to:
 
-Understand sales performance over time
+• Understand sales performance over time
 
 Identify top and under-performing products.
 
@@ -68,6 +68,7 @@ The raw sales data contained multiple pizza categories, sizes, and naming format
 Complex KPI calculations:-
 
 Metrics like Average Order Value and Average Pizzas per Order required combining multiple tables and applying accurate aggregations using SQL.
+
 Time-based analysis:
 
 Extracting meaningful trends by day of week and month required advanced date handling and grouping logic.
