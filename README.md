@@ -88,3 +88,9 @@ Dashboard design:-
 • Translating data into business decisions, such as menu optimization, upselling strategies, and demand forecasting.
 
 • Building end-to-end analytics projects — from raw data to executive-ready insights.
+
+👤 Author
+
+Malvaniya Mitul
+📌 Aspiring Data Analyst
+💡 Skills: SQL | Excel | Power BI | Python | Tebleau
