@@ -23,7 +23,7 @@ How can the business increase sales and efficiency?
 
 🛠 Technology & Analytical Techniques Used
 
-SQL
+SQL:-
 
 Complex JOINs, subqueries, and window functions
 
@@ -33,7 +33,7 @@ Date functions for daily and monthly trend analysis
 
 GROUP BY & HAVING for category and product performance
 
-Power BI
+Power BI:-
 
 Power Query for data cleaning and structuring
 
@@ -63,18 +63,18 @@ Customer ordering behavior supports combo and family-pack strategies, as custome
 
  🚧 Challenges Faced
  
-Data cleaning and consistency:
+Data cleaning and consistency:-
 
 The raw sales data contained multiple pizza categories, sizes, and naming formats, which required careful standardization before analysis.
 
-Complex KPI calculations:
+Complex KPI calculations:-
 
 Metrics like Average Order Value and Average Pizzas per Order required combining multiple tables and applying accurate aggregations using SQL.
 Time-based analysis:
 
 Extracting meaningful trends by day of week and month required advanced date handling and grouping logic.
 
-Dashboard design:
+Dashboard design:-
 
 Designing a Power BI report that presents KPIs, trends, and product performance clearly without overwhelming users was a key visualization challenge.
 
